@@ -86,7 +86,7 @@
 		"gitDecoration.untrackedResourceForeground": "#9cdcfe", // Não rastreado
 		"gitDecoration.ignoredResourceForeground": "#424662", // Ignorado
 		"gitDecoration.conflictingResourceForeground": "#ffaf00", // Conflito
-		"gitDecoration.renamedResourceForeground": "#c586c0", // Renomeado
+		"gitDecoration.renamedResourceForeground": "#c586c0", // Renomeado.
 	
 		// === Barra de Status ===
 		"statusBar.background": "#0c0d11",
