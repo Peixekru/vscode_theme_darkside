@@ -1,0 +1,22 @@
+{
+  "name": "darkside",
+  "displayName": "DarkSide",
+  "description": "Nice fresh dark theme for elegant developer.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Side",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Side-color-theme.json"
+      }
+    ]
+  }
+}
