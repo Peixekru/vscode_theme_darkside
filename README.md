@@ -8,6 +8,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Peixekru/vscode_theme_darkside/main/_img/logo.png" alt="DarkSide Theme Screenshot" />
+</div>
+
+---
+
 ## 📸 Screenshot
 
 <div align="center">
@@ -23,6 +29,8 @@
 3. Click **Install**  
 4. Open the Command Palette with `Ctrl+Shift+P` or `⇧⌘P`  
 5. Choose `Preferences: Color Theme` → **DarkSide Theme**
+
+Or download VSIX on Visual Studio Code [marketplace](https://marketplace.visualstudio.com/items?itemName=TiagoDiniz.darkside)
 
 ---
 
