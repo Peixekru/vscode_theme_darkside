@@ -11,7 +11,7 @@
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Peixekru/vscode_theme_darkside/_img/screens.png" alt="DarkSide Theme Screenshot" />
+  <img src="https://raw.githubusercontent.com/Peixekru/vscode_theme_darkside/main/_img/screens.png" alt="DarkSide Theme Screenshot" />
 </div>
 
 ---
