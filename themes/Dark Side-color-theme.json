@@ -74,6 +74,7 @@
 		"sideBarSectionHeader.border": "#0c0d11",
 	
 		// ? => Listas (ex: arquivos no explorer)
+    "list.focusBackground": "#20232f",
 		"list.activeSelectionBackground": "#20232f",
 		"list.activeSelectionForeground": "#cccccc",
 		"list.inactiveSelectionBackground": "#20232f",

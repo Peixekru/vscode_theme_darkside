@@ -2,9 +2,10 @@
   "name": "darkside",
   "displayName": "DarkSide",
   "description": "Nice fresh dark theme for elegant developer.",
-  "version": "0.0.1",
+  "publisher": "TiagoDiniz",
+  "version": "0.0.3",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.80.0"
   },
   "license" :"MIT",
   "icon": "icon.png",
